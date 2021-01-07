@@ -1,0 +1,74 @@
+{
+    "foods":[
+    {
+        "id" : "1",
+        "dishname" : "Pav Bhaji",
+        "dishprice" : "$ 26",
+        "category" : "veg"
+    },
+
+    {
+        "id" : "2",
+        "dishname" : "Misal Pav",
+        "dishprice" : "$ 24",
+        "category" : "veg"
+    },
+
+    {
+        "id" : "3",
+        "dishname" : "Pani Puri",
+        "dishprice" : "$ 30",
+        "category" : "veg"
+    },
+
+    {
+        "id" : "4",
+        "dishname" : "Ragda Pattis",
+        "dishprice" : "$ 22",
+        "category" : "veg"
+    },
+
+    {
+        "id" : "5",
+        "dishname" : "Butter Chicken",
+        "dishprice" : "$ 19",
+        "category" : "veg"
+    },
+
+    {
+        "id" : "6",
+        "dishname" : "Chicken Masala",
+        "dishprice" : "$ 16",
+        "category" : "non veg"
+    },
+
+    {
+        "id" : "7",
+        "dishname" : "Chicken Hakka Noodles",
+        "dishprice" : "$ 12",
+        "category" : "non veg"
+    },
+
+    {
+        "id" : "8",
+        "dishname" : "Shrimps Fry",
+        "dishprice" : "$ 25",
+        "category" : "non veg"
+    },
+
+    {
+        "id" : "9",
+        "dishname" : "Chicken 65",
+        "dishprice" : "$ 15",
+        "category" : "non veg"
+    },
+
+    {
+        "id" : "10",
+        "dishname" : "Idli Sambar",
+        "dishprice" : "$ 20",
+        "category" : "veg"
+    }
+    
+    ]
+ }
